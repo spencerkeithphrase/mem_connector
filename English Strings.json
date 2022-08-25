@@ -1,0 +1,26 @@
+{
+  "general": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Are you sure?",
+    "destroy": "Delete",
+    "edit": "Edit",
+    "new": "New",
+    "About Text": "This demo application will grant you total consciousness"
+  },
+  "Hello World": "Hello World",
+  "layouts": {
+    "application": {
+      "about": "About",
+      "account": "Account",
+      "app_store": "Store",
+      "logout": "Logout",
+      "my_mails": "My Mail",
+      "press": "Press",
+      "preview": "Preview ",
+      "profile": "Profile",
+      "sign_in": "Login",
+      "sign_up": "Sign Up"
+    }
+  }
+}
